@@ -28,16 +28,16 @@ const Collection = () => {
         </div>
         {/* Subcategory Filter */}
         <div className="mt-4 border border-gray-200 rounded-lg shadow-sm p-4 sm:block bg-white">
-          <p className="mb-3 text-sm font-semibold text-gray-800">CATEGORIES</p>
+          <p className="mb-3 text-sm font-semibold text-gray-800">TYPE</p>
           <div className="flex flex-col gap-4 text-sm font-light text-gray-700">
             <p className="flex items-center gap-2">
-              <input className="w-4 h-4 rounded border-gray-300" type="checkbox" value="Men" /> Men
+              <input className="w-4 h-4 rounded border-gray-300" type="checkbox" value="Topwear" /> Topwear
             </p>
             <p className="flex items-center gap-2">
-              <input className="w-4 h-4 rounded border-gray-300" type="checkbox" value="Women" /> Women
+              <input className="w-4 h-4 rounded border-gray-300" type="checkbox" value="Bottomwear" /> Bottomwear
             </p>
             <p className="flex items-center gap-2">
-              <input className="w-4 h-4 rounded border-gray-300" type="checkbox" value="Kids" /> Kids
+              <input className="w-4 h-4 rounded border-gray-300" type="checkbox" value="Winterwear" /> Winterwear
             </p>
           </div>
         </div>
