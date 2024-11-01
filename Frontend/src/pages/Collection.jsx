@@ -37,7 +37,7 @@ const Collection = () => {
               <input className="w-4 h-4 rounded border-gray-300" type="checkbox" value="Bottomwear" /> Bottomwear
             </p>
             <p className="flex items-center gap-2">
-              <input className="w-4 h-4 rounded border-gray-300" type="checkbox" value="Winterwear" /> Winterwear
+               <input className="w-4 h-4 rounded border-gray-300" type="checkbox" value="Winterwear" /> Winterwear
             </p>
           </div>
         </div>
